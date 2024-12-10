@@ -46,6 +46,7 @@ footer {
     color: white;
     padding: 5px;
     position: fixed;
-    width: 50%;
+    height: auto;
+    width: 100%;
     bottom: 0;
 }
